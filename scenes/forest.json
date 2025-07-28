@@ -3,7 +3,21 @@
   "tracks": [
     {
       "title": "Птицы",
-      "file": "audio/forest_birds.mp3"
+      "file": "audio/forest_birds.mp3",
+      "volume": 0.8,
+      "interval": [5, 15]
+    },
+    {
+      "title": "Ветер",
+      "file": "audio/forest_wind.mp3",
+      "volume": 0.5,
+      "interval": [10, 30]
+    },
+    {
+      "title": "Сова",
+      "file": "audio/owl.mp3",
+      "volume": 1,
+      "interval": [20, 40]
     }
   ]
 }
