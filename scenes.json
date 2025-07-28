@@ -5,12 +5,5 @@
     "image": "images/forest.jpg",
     "file": "scenes/forest.json",
     "sizeMB": 15
-  },
-  {
-    "id": "rain",
-    "name": "Дождь",
-    "image": "images/rain.jpg",
-    "file": "scenes/rain.json",
-    "sizeMB": 8
   }
 ]
