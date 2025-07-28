@@ -3,7 +3,7 @@
     "id": "forest",
     "name": "Лес",
     "image": "images/forest.jpg",
-    "file": "scenes/forest.json",
+    "file": "audio/forest_birds.mp3",
     "sizeMB": 15
   }
 ]
