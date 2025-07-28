@@ -1,0 +1,9 @@
+{
+  "id": "forest",
+  "tracks": [
+    {
+      "title": "Птицы",
+      "file": "audio/forest_birds.mp3"
+    }
+  ]
+}
